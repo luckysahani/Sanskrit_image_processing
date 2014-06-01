@@ -1,0 +1,1 @@
+/home/lucky/machine_learning/sanskrit/CMakeFiles/sanskrit.dir
